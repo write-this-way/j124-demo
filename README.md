@@ -54,7 +54,7 @@ In the wise words of Blackstreet from "No Diggity":
 | rep         	|    0 	|    2 	|    1 	|    3 	|   94 	|   92 	|   90 	|   15 	|         297 	|
 | Grand Total 	|    8 	|   23 	|   27 	|   21 	|  115 	|  209 	|  106 	|   31 	|         540 	|
 
-
+[Table generator](https://www.tablesgenerator.com/markdown_tables)
 
 
 
